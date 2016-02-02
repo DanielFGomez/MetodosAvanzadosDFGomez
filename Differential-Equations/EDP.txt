@@ -1,7 +1,7 @@
 EDP
 Problema de adecuacion
-lineas-curvas caracteristicas
-estabilidad
+lineas-curvas caracteristicas: al tomar la derivada con la diferencia hacia atras y hacia adelante la solucion no funciona. Tomando solo la diferencia i e i-1 el programa si funciona. problema de causalidad.
+Estabilidad: delta x y delta t deben obedecer una relacion para lograr estabilidad
 
 Orden de la ecuacion: grado de la derivada mas alta
 Linealidad
