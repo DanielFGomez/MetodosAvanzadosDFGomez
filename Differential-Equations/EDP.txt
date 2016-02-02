@@ -1,0 +1,4 @@
+Orden de la ecuacion: grado de la derivada mas alta
+Linealidad
+Homogenea: no hay fuentes ie. d2U/dx2=0
+Elipticas, parabolicas o hiperbolicas
