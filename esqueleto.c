@@ -7,6 +7,7 @@ float *reserva(int n_puntos);
 void print_array(float * array, int n_puntos);
 void copy(float *origen, float *destino, int n_puntos);
 float fun(float x);
+void *resetArray(double *array,int n_puntos);
 
 
 int main(int argc, char **argv){
@@ -45,4 +46,11 @@ float *reserva(int n_puntos){
 	array[i] = 0.0;
 }
 return array;
+}
+
+void *resetArray(double *array,int n_puntos){
+	int i;
+	for(i=0;i<n_puntos;i++){
+	array[i] = 0.0;
+	}
 }
