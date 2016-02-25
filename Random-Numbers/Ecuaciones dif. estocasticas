@@ -1,4 +1,5 @@
 Ecuaciones diferenciales estocásticas
+Referencia: Stochastic differential equations 
 
 Movimiento Browniano
 Proceso de Wiener
@@ -11,3 +12,5 @@ dx/dt=f(x)+g(x)"ruido"
 dx=f(x)dt+g(x)dwt
 
 para pasar a un computador convertir los d en deltas.
+
+Tambien hay esquemas de Milstein y Runge Kutta para estas ecuaciones diferenciales.
