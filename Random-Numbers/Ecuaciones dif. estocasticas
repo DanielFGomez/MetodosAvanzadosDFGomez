@@ -4,3 +4,10 @@ Movimiento Browniano
 Proceso de Wiener
 Integrales estadisticas
 Metodo Euler-Mariyama
+
+En este método se asume que la varianza es finita. En la vida real esto por lo general no es asi.
+
+dx/dt=f(x)+g(x)"ruido"
+dx=f(x)dt+g(x)dwt
+
+para pasar a un computador convertir los d en deltas.
