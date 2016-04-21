@@ -1,0 +1,12 @@
+Metodos para el problema N cuerpos
+
+Suma directa
+simplemente se hace la sumatoria para todas las fuerzas
+
+Poisson
+Se resuelve la ecuacion de Poisson 
+\nabla2 \phi=4piG\rho
+La densidad se define utilizando un grid
+
+Otras
+simplificacion de simetria esférica
