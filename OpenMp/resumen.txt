@@ -1,0 +1,1 @@
+Se utiliza #pragma para iniciar código en paralelo
