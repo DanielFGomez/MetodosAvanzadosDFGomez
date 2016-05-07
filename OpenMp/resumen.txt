@@ -1,1 +1,2 @@
 Se utiliza #pragma para iniciar código en paralelo
+se utiliza gcc programa.c -fopenmp para compilar
